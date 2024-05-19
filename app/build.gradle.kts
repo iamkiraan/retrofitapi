@@ -52,4 +52,9 @@ dependencies {
     
     //gson converter
     implementation(libs.converter.gson)
+
+
+    //picasson
+    implementation(libs.picasso.v271828)
+
 }
